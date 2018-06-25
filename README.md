@@ -1,5 +1,5 @@
 # FeedReader Testing project
 
-This app is made to test the code, whether its working right or not.
+This app is made to test the code with jasmine.
 
-<img src="">
+<img src="img/mainpage.gif">
