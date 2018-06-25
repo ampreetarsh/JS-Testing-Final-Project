@@ -6,4 +6,4 @@ This app is made to test the code with jasmine.
 
 # How it works
 
-Different test sites have been written to test the different functions of the app
+Different test suites have been written to test the different functions of the app
