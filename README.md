@@ -8,7 +8,7 @@ This app is made to test the code with jasmine.
 
 Different test suites have been written to test the different functions of the app
 
-<h4>Tests</h4> 
+# Tests 
 <hr>
 <p>RSS Feeds:</p>
 <ul>
